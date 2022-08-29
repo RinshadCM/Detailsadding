@@ -1,3 +1,5 @@
 Name:Mohammed Rinshad C M
 Age:22
 Address:Cherumalayil House Mannarkkad
+Place:Kandamangalam
+District:Palakkad
