@@ -1,3 +1,5 @@
 Name:Mohammed Rinshad C M
 Age:22
 Address:Luminar Tech,Kochi
+Place:Kochi
+District:Ernankulam
