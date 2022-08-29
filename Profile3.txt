@@ -1,3 +1,4 @@
 Name:Jafar K
 Age:23
 Address:Kaladi House
+Place:Palode
