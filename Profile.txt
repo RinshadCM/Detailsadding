@@ -3,3 +3,6 @@ Age:22
 Address:Cherumalayil House Mannarkkad
 Place:Kandamangalam
 District:Palakkad
+Address:Luminar Tech,Kochi
+Place:Kochi
+District:Ernankulam
