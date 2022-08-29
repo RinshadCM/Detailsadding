@@ -2,3 +2,5 @@ Name:Althaf
 Age:23
 Address:Kolopadath House
 Address:PT House
+Place:Chethallur
+PIN:678583
